@@ -15,6 +15,6 @@ Gabriel Anea
 Jogo feito no 1º Semestre da Fatecscs
 Jogo feito em Python (Pygame)
 
-### Instruções
-# Extraia a pasta do zip
-# Inicie o Corn Odissey.exe (icone de um disket)
+# Instruções
+### Extraia a pasta do zip
+### Inicie o Corn Odissey.exe (icone de um disket)
